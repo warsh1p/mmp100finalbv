@@ -1,0 +1,47 @@
+html {
+    
+}
+
+body {
+  background-color: floralwhite;
+}
+
+h1 {
+  color: #800303;
+  text-align: center; 
+}
+
+p1 {
+  font-family: Verdana;
+  font-size: 40px;
+  text-align: center;
+}
+
+h2 {
+    font-family: Verdana;
+    font-size:20px;
+    color:darkgreen;
+}
+
+h1 {
+    display: table; /* keep the background color wrapped tight */
+    margin: 0px auto 0px auto; /* keep the table centered */
+    padding:10px;font-size:40px;background-color:black;
+}
+
+.image{
+    position: relative;
+    width:100%;
+
+}
+
+h3 {
+    font-family: Verdana;
+    font-size: 80px;
+    color: white;
+    border: black;
+    -webkit-text-stroke: 2px black; /* width and color */
+    top
+}
+
+html 
